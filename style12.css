@@ -117,9 +117,3 @@ summary:hover{
     color: black;
     background-color: fuchsia;
 }
-
-.tut{
-    display:flex;
-    flex-wrap:wrap;
-    justify-content: space-around;
-}
